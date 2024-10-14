@@ -1,4 +1,4 @@
-// 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 @ineffable.mvrco - _antiprivado.js
+// 𝐌𝐔𝐍̃𝐄𝐂𝐀 𝐁𝐎𝐓 @josssi_bot.ff - _antiprivado.js
 
 export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) {
     const datas = global
